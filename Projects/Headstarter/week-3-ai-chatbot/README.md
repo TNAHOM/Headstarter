@@ -1,36 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Headstarter AI Chatbot
+  ## Overview
+  - The Headstarter AI Chatbot is a custom-built AI-powered conversational assistant designed to enhance customer engagement and support for Headstarter. Leveraging advanced natural         language processing through the OpenAI API, this chatbot is capable of understanding and responding to user queries with accuracy and efficiency. Integrated within the company's website or application, the chatbot serves as a 24/7 support agent, providing quick and helpful responses to customer inquiries.
+  
+  ## Features
+  - Natural Language Understanding: The chatbot uses OpenAI's GPT model to comprehend and respond to customer queries in a natural and conversational manner.
+  - Multi-Language Support: Understands and responds in Spanish, french, and English.    - Custom Responses: Tailored to the specific needs of [Company Name], the chatbot provides answers that align with the company's products, services, and brand voice.
+  - 24/7 Availability: Ensures continuous support for customers, improving user experience and satisfaction.
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+  ## Tech Stack
+   - Frontend: Next.js, React
+  - Backend: Firebase for real-time data storage and user management
+  - AI Integration: OpenAI API for natural language processing
+    - Deployment: Hosted on Vercel
+  ## Demo
+  ![Logo](./public/assets/page.png)
