@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Engaging lectures and helpful office hours. Tough but fair grading."
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Excellent at explaining complex concepts. Very approachable and supportive."
+    },
+    {
+      "professor": "Dr. Sarah Williams",
+      "subject": "Psychology",
+      "stars": 3,
+      "review": "Interesting material, but lectures can be disorganized at times."
+    },
+    {
+      "professor": "Prof. David Brown",
+      "subject": "History",
+      "stars": 4,
+      "review": "Passionate about the subject. Assignments are challenging but rewarding."
+    },
+    {
+      "professor": "Dr. Lisa Martinez",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Clear explanations and well-structured labs. Always willing to help students."
+    },
+    {
+      "professor": "Prof. Robert Taylor",
+      "subject": "Economics",
+      "stars": 2,
+      "review": "Lectures are dry and hard to follow. Exam questions often unclear."
+    },
+    {
+      "professor": "Dr. Amanda Lee",
+      "subject": "English Literature",
+      "stars": 4,
+      "review": "Insightful discussions in class. Provides detailed feedback on essays."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "subject": "Physics",
+      "stars": 3,
+      "review": "Knowledgeable, but sometimes struggles to explain concepts to non-majors."
+    },
+    {
+      "professor": "Dr. Karen Davis",
+      "subject": "Sociology",
+      "stars": 5,
+      "review": "Thought-provoking lectures. Creates an inclusive classroom environment."
+    },
+    {
+      "professor": "Prof. Thomas Anderson",
+      "subject": "Mathematics",
+      "stars": 4,
+      "review": "Patient and thorough. Provides plenty of practice problems and examples."
+    },
+    {
+      "professor": "Dr. Nicole White",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Passionate and engaging. Field trips to museums were highlights of the course."
+    },
+    {
+      "professor": "Prof. Kevin Park",
+      "subject": "Political Science",
+      "stars": 3,
+      "review": "Knowledgeable but can be biased in presenting certain topics."
+    },
+    {
+      "professor": "Dr. Rachel Green",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Incorporates current events into lectures. Group projects were valuable experiences."
+    },
+    {
+      "professor": "Prof. Daniel Smith",
+      "subject": "Philosophy",
+      "stars": 5,
+      "review": "Challenges students to think critically. Facilitates great class discussions."
+    },
+    {
+      "professor": "Dr. Olivia Turner",
+      "subject": "Linguistics",
+      "stars": 4,
+      "review": "Clear and organized teaching style. Assignments are relevant and interesting."
+    },
+    {
+      "professor": "Prof. William Harris",
+      "subject": "Business Administration",
+      "stars": 2,
+      "review": "Seems disinterested in teaching. Relies too heavily on textbook material."
+    },
+    {
+      "professor": "Dr. Sophia Rodriguez",
+      "subject": "Anthropology",
+      "stars": 5,
+      "review": "Brings real-world experience to the classroom. Encourages student participation."
+    },
+    {
+      "professor": "Prof. George Thompson",
+      "subject": "Engineering",
+      "stars": 3,
+      "review": "Solid technical knowledge, but could improve on presentation skills."
+    },
+    {
+      "professor": "Dr. Emma Baker",
+      "subject": "Music Theory",
+      "stars": 4,
+      "review": "Patient and supportive. Makes complex theories accessible to all skill levels."
+    },
+    {
+      "professor": "Prof. Alan Foster",
+      "subject": "Statistics",
+      "stars": 3,
+      "review": "Knows the material well, but can be intimidating when students ask questions."
+    }
+  ]
+}
